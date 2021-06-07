@@ -1,0 +1,33 @@
+{
+  "name": "hithere",
+  "version": "1.0.0",
+  "description": "hi there next js app as base for react native stuff",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfilix/hackaton2.git"
+  },
+  "keywords": [
+    "next",
+    "js",
+    "ionic",
+    "capacitor"
+  ],
+  "author": "filix, ruben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitfilix/hackaton2/issues"
+  },
+  "homepage": "https://github.com/gitfilix/hackaton2#readme"
+}
